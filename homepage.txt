@@ -1,0 +1,20 @@
+Scenario:
+ You are working on a feature branch for updating the homepage.
+
+
+Tasks:
+
+
+Clone the repository.
+
+
+Create a new branch feature/homepage.
+
+
+Add a file homepage.txt with sample text.
+
+
+Commit the changes.
+
+
+Merge feature/homepage into develop.
